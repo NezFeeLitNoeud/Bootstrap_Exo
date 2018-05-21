@@ -1,0 +1,54 @@
+html, body {
+
+}
+
+nav {
+	margin-bottom: 30px;
+}
+.carousel-item {
+	width: 500px;
+	height: 500px;
+}
+
+.carousel-inner {
+	border: 2px black solid;
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+}
+
+.cards-container {
+	display: flex;
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 50px;
+
+}
+
+.card1 {
+	border:2px #4c4b4a solid;
+	margin-right: 5px;
+	background-color: #b2b0ae;
+}
+.card2 {
+	border:2px #4c4b4a solid;
+	margin-right: 5px;
+	background-color: #b2b0ae;
+}
+.card3 {
+	border:2px #4c4b4a solid;
+	margin-right: 5px;
+	background-color: #b2b0ae;
+}
+p {
+	text-align: center;
+}
+
+.btn-secondary{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 75%;
+	margin-left: 32px;
+background-color: #82817f;
+border: 1px #4c4b4a solid;
+}
